@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70799&width=435&lines=Machine+Learning+Engineer;Quantum+Computing++Enthusiast;Quantum+Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70799&width=435&lines=QA+Automation+Engineer;Quantum+Computing++Enthusiast;Quantum+Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
