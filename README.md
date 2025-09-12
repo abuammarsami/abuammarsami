@@ -1,34 +1,34 @@
 <div align="center">
 
-# 👨‍💻 Abu Ammar Sami
-### Senior Software Engineer • Quantum Computing Pioneer • Tech Innovator
+# 👨‍💻 Md. Abu Ammar
+### Junior Software Engineer • AI/ML Enthusiast • Quantum Computing Researcher
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86C1&width=600&lines=Building+scalable+systems+at+enterprise+scale;Pioneering+quantum+machine+learning+solutions;Leading+high-performance+engineering+teams;Architecting+cloud-native+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86C1&width=600&lines=Building+scalable+backend+systems+with+.NET;Exploring+quantum+machine+learning+applications;Developing+intelligent+automation+solutions;Creating+cloud-native+applications+with+Azure)](https://git.io/typing-svg)
 
 ---
 
-🚀 **Passionate about pushing the boundaries of technology** | 🎯 **10+ years building enterprise solutions** | 🌟 **Quantum computing researcher**
+🚀 **Passionate Software Engineer focused on backend architecture and AI/ML** | 🎯 **Building innovative solutions at Masjid Solutions** | 🌟 **MS student in Computer Science**
 
 </div>
 
 ## 🎯 Professional Summary
 
-> *"Excellence is not a destination; it is a continuous journey that never ends."* - Brian Tracy
+> *"My mission: to continuously improve systems, automate repetitive tasks and innovate on scale, with a focus on impactful solutions in AI-driven software engineering."*
 
-**Seasoned Senior Software Engineer** with extensive experience in **large-scale distributed systems**, **quantum computing research**, and **technical leadership**. Passionate about bridging the gap between cutting-edge research and practical enterprise solutions.
+**Junior Software Engineer** with expertise in **backend architecture**, **automation pipelines**, **applied machine learning**, and **DevOps**. Currently at Masjid Solutions (remote, US-based), where I design and deploy scalable systems, break down monoliths into microservices, and build intelligent integrations that include AI-powered kiosk monitoring and payment automation.
 
 ### 🌟 **Core Strengths**
-- 🏗️ **Systems Architecture**: Designed and built systems serving **10M+ users** with **99.99% uptime**
-- 🚀 **Technical Leadership**: Led cross-functional teams of **15+ engineers** across **4 countries**  
-- 📊 **Measurable Impact**: Delivered **300%+ performance improvements** and **$2M+ cost savings** annually
-- 🔬 **Research Excellence**: Published **15+ peer-reviewed papers** in quantum computing and distributed systems
-- 🌍 **Community Impact**: Open source contributions with **50K+ downloads** and **25K+ followers**
+- 🏗️ **Backend Development**: Building scalable systems with .NET Core, SQL Server, and cloud services
+- 🚀 **DevOps & Automation**: CI/CD pipelines, Azure DevOps, automated deployment strategies  
+- 📊 **AI/ML Integration**: Quantum Machine Learning research, computer vision, and NLP applications
+- 🔬 **Research Excellence**: Undergraduate thesis on quantum machine learning applications
+- 🌍 **Remote Collaboration**: Experience working with international teams and clients
 
-### 🎯 **What I Bring**
-✅ **Strategic Thinking**: Connecting business objectives with technical solutions  
-✅ **Innovation Leadership**: Pioneering quantum applications in real-world scenarios  
-✅ **Team Development**: Mentoring engineers with **80% promotion success rate**  
-✅ **Technical Excellence**: Architecting resilient, scalable, and maintainable systems
+### 🎯 **Current Focus**
+✅ **Backend Systems**: .NET applications with clean architecture patterns  
+✅ **Cloud Integration**: Azure services, microservices, and distributed systems  
+✅ **AI Applications**: Computer vision, NLP, and quantum computing research  
+✅ **Quality Assurance**: Automated testing frameworks and CI/CD best practices
 
 ---
 
@@ -39,70 +39,80 @@
 🟦🟦🟦🟦🟦 Expert     🟦🟦🟦🟦⬜ Advanced   🟦🟦🟦⬜⬜ Intermediate
 ```
 
-| Technology | Proficiency | Years | Notable Projects |
-|------------|------------|-------|------------------|
-| **Python** | 🟦🟦🟦🟦🟦 | 8+ | Quantum ML Framework, MLOps Pipeline |
-| **Java/Kotlin** | 🟦🟦🟦🟦🟦 | 7+ | Microservices Architecture, Android Apps |
-| **JavaScript/TypeScript** | 🟦🟦🟦🟦⬜ | 6+ | Real-time Analytics Dashboard |
-| **Go** | 🟦🟦🟦🟦⬜ | 4+ | High-performance APIs, Container Orchestration |
-| **Rust** | 🟦🟦🟦⬜⬜ | 2+ | System Programming, Blockchain |
-| **C++** | 🟦🟦🟦🟦⬜ | 5+ | Quantum Simulators, High-frequency Trading |
+| Technology | Proficiency | Experience | Notable Projects |
+|------------|-------------|------------|------------------|
+| **C#/.NET** | 🟦🟦🟦🟦🟦 | 2+ years | Masjid Solutions Backend, KioskVisionAI |
+| **Python** | 🟦🟦🟦🟦⬜ | 3+ years | ML/AI Research, Django Applications |
+| **SQL/Databases** | 🟦🟦🟦🟦⬜ | 2+ years | SQL Server, MySQL, PostgreSQL |
+| **JavaScript** | 🟦🟦🟦⬜⬜ | 2+ years | Frontend Integration, Alpine.js |
+| **C++** | 🟦🟦🟦⬜⬜ | Academic | DSA, Quantum Computing Research |
+| **Java** | 🟦🟦🟦⬜⬜ | 2+ years | Automation Testing, TestNG Framework |
 
-### **Cloud & Infrastructure**
+### **Backend & Cloud Technologies**
 <details>
 <summary>🔧 <strong>Click to expand comprehensive tech stack</strong></summary>
 
-#### **Cloud Platforms**
-- ☁️ **AWS**: EC2, EKS, Lambda, RDS, S3, CloudFormation (AWS Certified Solutions Architect)
-- 🔵 **Azure**: AKS, Functions, Cosmos DB, Service Fabric
-- 🟡 **GCP**: GKE, Cloud Functions, BigQuery, Quantum AI
+#### **Backend Frameworks**
+- 🔷 **.NET Core/MVC**: ASP.NET MVC, Entity Framework, Dapper, Repository Pattern
+- 🐍 **Python**: Django, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
+- ☁️ **Cloud**: Azure (Functions, App Services, Blob Storage, Queues, Vision AI)
 
 #### **DevOps & Tools**
-- 🐳 **Containerization**: Docker, Kubernetes, Helm
-- 🔄 **CI/CD**: GitHub Actions, Jenkins, GitLab CI, ArgoCD
-- 📊 **Monitoring**: Prometheus, Grafana, ELK Stack, Datadog
-- 🗃️ **Databases**: PostgreSQL, MongoDB, Redis, Cassandra, ClickHouse
+- 🐳 **CI/CD**: Bitbucket Pipelines, Jenkins, GitHub Actions, Azure Developer CLI
+- 📊 **Monitoring**: IIS deployment, automated rollback strategies
+- 🗃️ **Databases**: Microsoft SQL Server, MySQL, PostgreSQL
+- 🔧 **Testing**: Selenium, NUnit, TestNG, Postman, REST Assured
 
 #### **Architecture Patterns**
-- 🏗️ **Microservices** with event-driven architecture
-- 🌐 **Distributed Systems** with CQRS and Event Sourcing
-- 🔧 **Domain-Driven Design** (DDD) implementation
-- ⚡ **High-Performance Computing** with parallel processing
+- 🏗️ **Clean Architecture** with Repository patterns
+- 🌐 **Microservices** migration from monolith systems
+- 🔧 **Domain-Driven Design** principles
+- ⚡ **Event-driven** architecture with REST APIs
 
 </details>
 
-### **Quantum Computing Stack**
-| Framework | Use Case | Experience |
-|-----------|----------|------------|
-| **Qiskit** | Quantum algorithms, NISQ applications | 3+ years |
-| **Cirq** | Quantum machine learning research | 2+ years |
-| **PennyLane** | Differentiable quantum programming | 2+ years |
-| **Q#** | Microsoft Quantum Development | 1+ years |
+### **AI/ML & Quantum Computing**
+| Framework/Tool | Use Case | Experience |
+|----------------|----------|------------|
+| **PyTorch** | Deep Learning, Neural Networks | Academic + Personal Projects |
+| **TensorFlow** | Machine Learning Models | Academic Projects |
+| **Qiskit** | Quantum computing algorithms | Research (Undergraduate Thesis) |
+| **PennyLane** | Quantum Machine Learning | Research Projects |
+| **Hugging Face** | NLP, BERT models | Bangla POS Tagging Project |
+| **Scikit-learn** | Traditional ML, Ensemble Methods | Multiple Projects |
 
 ---
 
-## 🏆 Featured Projects & Achievements
+## 🏆 Featured Projects & Experience
 
-### 🔬 **Quantum Machine Learning Framework**
-*Leading quantum research initiative*
-- 📈 **Impact**: Achieved 40% improvement in optimization problems vs classical methods
-- 🔬 **Innovation**: First practical implementation of variational quantum eigensolvers for financial modeling
-- 🏅 **Recognition**: Featured in Nature Quantum Information journal
-- 🔗 **Tech Stack**: Python, Qiskit, TensorFlow Quantum, AWS Braket
+### 💼 **Current Role: Junior Software Engineer @ Masjid Solutions**
+*December 2023 – Present | Indianapolis, Indiana, USA (Remote)*
+- 🏗️ **Backend Development**: Engineering scalable solutions using .NET (MVC & Core), SQL Server, Dapper, LINQ, Repository Pattern, and Entity Framework
+- 📊 **Data Automation**: Designed automated data import pipelines, reducing onboarding time for new schools and memberships by 60%
+- 🚀 **DevOps**: Architected CI/CD pipelines with Bitbucket, Jenkins, IIS, enabling zero-downtime deployments
+- 🔧 **System Integration**: Built Remote Kiosk Device Management System with REST APIs for real-time monitoring
+- 💳 **Payment Systems**: Integrated Stripe ACH and Authorize.Net payments for recurring and one-time transactions
 
-### ⚡ **High-Frequency Trading System**
-*Real-time financial data processing*
-- 📊 **Scale**: Processing 10M+ transactions/second with <100μs latency
-- 💰 **Business Impact**: Generated $50M+ additional revenue through improved execution
-- 🏗️ **Architecture**: Event-driven microservices with CQRS pattern
-- 🔗 **Tech Stack**: C++, Kafka, Redis, TimescaleDB, Kubernetes
+### 🔬 **KioskVisionAI - Cloud-Native .NET Aspire Application**
+*Distributed AI-powered kiosk monitoring system*
+- 📈 **Innovation**: .NET 9 Aspire application with orchestration, observability, and service discovery
+- 🔗 **Integration**: Azure Blob Storage, Queues, and Vision AI for automated image analysis
+- 🚀 **Deployment**: Cloud-native deployment with Azure Developer CLI and GitHub Actions automation
+- 🔗 **Tech Stack**: .NET Aspire, Azure Vision AI, Azure Services, GitHub Actions
 
-### 🌐 **Distributed Analytics Platform**
-*Enterprise-grade data processing*
-- 📈 **Performance**: Reduced query response time from 45s to 200ms (99.5% improvement)
-- 💾 **Scale**: Handles 500TB+ daily data ingestion across 12 data centers
-- 💡 **Innovation**: Custom columnar storage engine with intelligent caching
-- 🔗 **Tech Stack**: Go, ClickHouse, Apache Kafka, Prometheus, Grafana
+### ⚡ **ACH Payment Integration System**
+*Secure payment processing for donation platforms*
+- 💰 **Business Impact**: Implemented recurring and one-time ACH payment workflows
+- 🔒 **Security**: Enhanced reliability, automation, and compliance in payment processing
+- 🏗️ **Architecture**: Integration with Stripe and AuthNet APIs for US-based mosque clients
+- 🔗 **Tech Stack**: .NET, Stripe API, Authorize.Net, SQL Server
+
+### 🤖 **Quantum Machine Learning Research**
+*Undergraduate thesis on quantum computing applications*
+- 📈 **Research**: Explored QML models and classification tasks with various encoding methods
+- 💡 **Innovation**: Investigated state-of-the-art quantum machine learning applications
+- 🏅 **Academic**: Comprehensive study of quantum algorithms and their practical implementations
+- 🔗 **Tech Stack**: Python, PyTorch, PennyLane, Qiskit, IBM Quantum
 
 ---
 
@@ -136,75 +146,102 @@
 
 ---
 
-## 💼 Professional Impact
+## 💼 Professional Experience & Academic Projects
 
-### **Engineering Leadership**
-- 👥 **Team Scale**: Led cross-functional teams of 15+ engineers across 4 countries
-- 📈 **Delivery**: Maintained 95%+ on-time delivery rate for critical business features
-- 🎯 **Mentoring**: Directly mentored 25+ engineers, with 80% achieving promotions
-- 🏆 **Recognition**: "Engineering Excellence Award" recipient 3 consecutive years
+### **Previous Roles**
+#### 🧪 **SQA Engineer @ Masjid Solutions** *(Oct 2023 – Nov 2023)*
+- 🔧 **Test Automation**: Developed data-driven UI automation using C#, NUnit.NET, Selenium, Serilog
+- 📊 **Quality Assurance**: Reduced regression bugs by 30% through comprehensive automated testing
+- 🚀 **CI/CD Integration**: Jenkins pipeline integration for continuous testing
 
-### **Technical Innovation**
-- 📝 **Publications**: 15+ peer-reviewed papers in quantum computing and distributed systems
-- 🎤 **Speaking**: Keynote speaker at QConf, AWS re:Invent, PyConf
-- 💡 **Patents**: 3 pending patents in quantum machine learning algorithms
-- 🏅 **Awards**: "Innovation Leader of the Year" - TechCrunch Disrupt 2023
+#### 🤖 **QA Automation Engineer @ A1QA** *(Nov 2022 – Jul 2023)*
+- 🔬 **Framework Development**: Built automated test scenarios using TestNG framework with Maven
+- 📈 **Data-Driven Testing**: Implemented CSV-driven testing for regression and priority-based tests
+- 🛠️ **Technology Stack**: Java, Selenium WebDriver, TestNG, Maven
 
-### **Open Source Impact**
-- ⭐ **Contributions**: 500+ repos contributed to, 50K+ stars earned
-- 🔧 **Maintainer**: Core maintainer of quantum computing libraries (10M+ downloads)
-- 🌍 **Community**: Active in Python, Go, and Quantum computing communities
-- 📚 **Education**: Created educational content reaching 100K+ developers
+### **Academic & Research Projects**
+
+#### 🧠 **Bangla Parts of Speech Tagging Using Supervised Learning**
+- 📚 **Innovation**: Applied knowledge distillation with decision tree teacher and neural network student
+- 🎯 **Impact**: Improved tagging accuracy for Bangla language processing
+- 🔗 **Tech Stack**: Python, PyTorch, Scikit-Learn, Hugging Face, BERT
+
+#### 📊 **Startup Success Prediction using Ensemble Classification**
+- 🔬 **Model Development**: Implemented multiple algorithms including Adaboost, RandomForest, LGBM, SVM
+- 💡 **Business Application**: Provided insights for entrepreneurs and investors
+- 🔗 **Tech Stack**: Python, Scikit-Learn, Pandas, Matplotlib, Seaborn
+
+#### 🏢 **Software Digitization Service**
+- 🗂️ **System Design**: Built document management system for finance department
+- 🔍 **Features**: Digital conversion, secure storage, intelligent search functionality
+- 🔗 **Tech Stack**: Python, Django, MySQL, HTML, CSS, JavaScript
+
+#### 👥 **Age, Gender, and Race Estimation with Multi-Output CNN**
+- 🤖 **Deep Learning**: Developed CNN architecture for demographic estimation from facial images
+- 🎯 **Challenge**: Addressed subtle facial feature variations across demographics
+- 🔗 **Tech Stack**: Python, TensorFlow/Keras, CNN Architecture
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Education
+
+### 🎓 **Education**
+
+#### **Master's of Science in Computer Science and Engineering**
+*North South University | January 2023 – Expected November 2025*
+- 📚 **Coursework**: Distributed Database, Robotics, Computer Vision, Advanced Computer Architecture
+- 🌐 **Specialization**: Computer Network and Security, Wireless Communication, Bio-Informatics
+- 📍 **Location**: Dhaka, Bangladesh
+
+#### **Bachelor's of Science in Computer Science and Engineering**
+*North South University | May 2018 – September 2022*
+- 🏆 **CGPA**: 3.58 / 4.00 (Minor in Mathematics)
+- 📚 **Core Coursework**: Data Structures and Algorithms (C++), Machine Learning, Deep Learning
+- 🔬 **Advanced Topics**: NLP, Database Systems, Probability & Statistics in CS, Linear Algebra
+- 📍 **Location**: Dhaka, Bangladesh
 
 ### 🔬 **Research & Development**
-- **Quantum Advantage**: Exploring near-term quantum applications in optimization
-- **Green Computing**: Developing energy-efficient algorithms for large-scale ML
-- **Neuromorphic Computing**: Investigating brain-inspired computing architectures
+- **Quantum Computing**: Exploring practical applications of quantum machine learning
+- **Backend Architecture**: Advancing microservices patterns and distributed systems
+- **AI Integration**: Developing intelligent automation solutions for business applications
 
 ### 📚 **Continuous Learning**
-- 🎓 **Pursuing**: PhD in Quantum Information Science at MIT (part-time)
-- 📖 **Currently Reading**: "Quantum Computing: An Applied Approach" by Hidary
-- 🌟 **Learning**: Advanced graph neural networks and quantum error correction
-
-### 🤝 **Industry Involvement**
-- 🏢 **Advisory**: Technical advisor for 3 quantum computing startups
-- 🎪 **Events**: Organizing "Quantum Developer Conference 2024"
-- 📝 **Writing**: Technical blog on Medium with 25K+ followers
+- 🌟 **Current Focus**: .NET Aspire, Azure cloud services, advanced ML techniques
+- 📖 **Research Interest**: Quantum machine learning applications and encoding methods
+- 🚀 **Professional Growth**: Expanding expertise in enterprise-scale system design
 
 ---
 
-## 🌐 Thought Leadership & Community
+## 🌐 Professional Development & Community
 
 <table>
 <tr>
 <td width="50%">
 
-### 📝 **Recent Publications**
-- [Quantum Machine Learning in Financial Risk Assessment](https://example.com) - *Nature Quantum Info* (2024)
-- [Scalable Microservices Architecture Patterns](https://example.com) - *IEEE Software* (2024)  
-- [Optimizing Kubernetes for ML Workloads](https://example.com) - *CNCF Blog* (2023)
+### 📝 **Testing & Quality Assurance Experience**
+- **UI Automation**: Selenium, NUnit, TestNG frameworks
+- **API Testing**: REST Assured, Postman for comprehensive testing
+- **Framework Development**: Data-driven testing with CSV integration
+- **CI/CD Integration**: Jenkins pipeline automation for continuous testing
 
 </td>
 <td width="50%">
 
-### 🎤 **Recent Talks**
-- **QConf 2024**: "Production-Ready Quantum Applications"
-- **AWS re:Invent 2023**: "Serverless at Quantum Scale"
-- **PyConf 2023**: "High-Performance Python for Scientific Computing"
+### 🤖 **Machine Learning Projects**
+- **Quantum ML Research**: State-of-the-art quantum computing applications
+- **NLP**: Bangla language processing with BERT and knowledge distillation
+- **Computer Vision**: Multi-output CNN for demographic estimation
+- **Ensemble Methods**: Startup success prediction using multiple algorithms
 
 </td>
 </tr>
 </table>
 
-### 🏆 **Professional Recognition**
-- 🥇 **IEEE Senior Member** (2023)
-- 🏅 **AWS Community Hero** (2022-2024)
-- 🌟 **Google Developer Expert** - Machine Learning (2021-2024)
-- 📜 **Certified Kubernetes Administrator** (CKA)
+### 🏆 **Technical Achievements**
+- 🎓 **Academic Excellence**: CGPA 3.58/4.00 in Computer Science Engineering
+- 🚀 **Professional Growth**: Rapid progression from QA to Software Engineering
+- 💼 **Industry Impact**: 60% improvement in client onboarding processes
+- 🔬 **Research Contribution**: Comprehensive quantum machine learning thesis
 
 ---
 
@@ -213,7 +250,7 @@
 <div align="center">
 
 ### 💬 **Open for opportunities in:**
-`Quantum Computing Research` • `Technical Leadership` • `Architecture Consulting` • `Speaking Engagements`
+`Software Engineering` • `Backend Development` • `AI/ML Applications` • `Quantum Computing Research`
 
 </div>
 
@@ -223,16 +260,15 @@
 
 ### 📫 **Professional Contact**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-ammar/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbuAmmarSalman)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abu.ammar.sami@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abuammarsami)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuammarsami@gmail.com)
 
 </td>
 <td align="center">
 
-### 🌟 **Follow My Work**
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abuammarsami)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abuammarsami)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@abuammarsami)
+### 📱 **Contact Information**
+[![Phone](https://img.shields.io/badge/Phone-%2B8801731786464-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801731786464)
+[![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </td>
 </tr>
@@ -255,13 +291,13 @@
 
 **💡 "The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb**
 
-*Building the future, one quantum bit at a time* 🚀
+*Building innovative solutions with code and curiosity* 🚀
 
 ### 🎯 **Available for:**
-- 🚀 **Senior/Staff Engineering Roles** in quantum computing, distributed systems, or fintech
-- 🎤 **Speaking Engagements** at conferences and technical meetups  
-- 💼 **Technical Advisory** for quantum computing and ML startups
-- 🤝 **Mentoring** senior engineers and technical leaders
-- 📚 **Technical Writing** and content collaboration
+- 🚀 **Software Engineer Roles** in backend development, AI/ML, or distributed systems
+- 🔬 **Research Collaborations** in quantum computing and machine learning
+- 💼 **Remote Opportunities** with international teams and innovative projects
+- 🤝 **Technical Consulting** for .NET, Azure, and automation solutions
+- 📚 **Academic Projects** and research in quantum machine learning
 
 </div>
