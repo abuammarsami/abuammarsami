@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Md. Abu Ammar
-### Junior Software Engineer • AI/ML Enthusiast • Quantum Computing Researcher
+### Software Engineer • AI/ML Enthusiast • Quantum Computing Researcher
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86C1&width=600&lines=Building+scalable+backend+systems+with+.NET;Exploring+quantum+machine+learning+applications;Developing+intelligent+automation+solutions;Creating+cloud-native+applications+with+Azure)](https://git.io/typing-svg)
 
